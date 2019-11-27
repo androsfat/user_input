@@ -14,9 +14,9 @@ Implement the class NumericInput that:
 
 For example, the following code should output '10':
 
-`
-$input = new NumericInput();  
-$input->add('1');  
-$input->add('a');  
-$input->add('0');  
-echo $input->getValue();  
+
+    $input = new NumericInput();  
+    $input->add('1');  
+    $input->add('a');  
+    $input->add('0');  
+    echo $input->getValue();  
