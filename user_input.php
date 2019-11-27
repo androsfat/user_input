@@ -1,3 +1,5 @@
+<?php
+
 class TextInput {
 
     protected $string;
